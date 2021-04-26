@@ -102,6 +102,7 @@ std::vector<std::pair<double,double>> read_csv(std::ifstream& file)
             break;
         }
     }
+    std::sort(dots.begin(), dots.end());
     return dots;
 }
 
