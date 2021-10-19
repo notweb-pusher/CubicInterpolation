@@ -1,6 +1,6 @@
 # CubicInterpolation
 
-Due to some **UNKNOWN** reasons, u can not compile it. So, please, use terminal. **Now , It's fixed.** 
+It plots a graph for a given vector of dots using cubic interpolation method.
 ``` 
 qmake CubicInterpolation.pro
 make
